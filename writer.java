@@ -150,7 +150,7 @@ public class writer {
     }
 
  
- ]   public static void creating_file_2(String name_1, String name_2){ // procedure which is gonna create 2 files 
+    public static void creating_file_2(String name_1, String name_2){ // procedure which is gonna create 2 files 
         try {
             File myObj = new File(name_2 + "To" + name_1 + ".txt");
 
